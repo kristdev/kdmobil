@@ -1,0 +1,5 @@
+[24-Apr-2014 04:07:38 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/kdmobil/public_html/applications/frontend/modules/contact/views/contactpage.php on line 136
+[24-Apr-2014 04:08:39 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/kdmobil/public_html/applications/frontend/modules/contact/views/contactpage.php on line 136
+[24-Apr-2014 04:08:42 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/kdmobil/public_html/applications/frontend/modules/contact/views/contactpage.php on line 136
+[24-Apr-2014 06:15:55 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kdmobil/public_html/applications/frontend/modules/contact/controllers/contact.php on line 62
+[24-Apr-2014 06:16:33 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kdmobil/public_html/applications/frontend/modules/contact/controllers/contact.php on line 62

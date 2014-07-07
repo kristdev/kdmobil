@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"load",
+				"load_view	CI - Load View"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"loa",
+				"load_model	CI - Load Model"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"valid",
+				"valid_email"
+			],
+			[
+				"input",
+				"this->input->post	\\$this->input->post"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"myxajax",
+				"myxajax_newsletter_checkup"
+			],
+			[
+				"lo",
+				"load_view	CI - Load View"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bgi",
+				"background-image"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b-i",
+				"background-image"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"set",
+				"setTimeout"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"assets/js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/kdmobil/index.php",
+		"/C/wamp/www/cis-sarl/application/modules/contactus/controllers/contactus.php",
+		"/C/wamp/www/cis-sarl/application/modules/contactus/views/contactuspage.php",
+		"/C/wamp/www/cis-sarl/application/modules/header_top/views/header_toppage.php",
+		"/C/wamp/www/cis-sarl/application/modules/fournitures/controllers/fournitures.php",
+		"/C/wamp/www/cis-sarl/application/modules/fournitures/views/fourniturespage.php",
+		"/C/wamp/www/cis-sarl/application/modules/services/controllers/services.php",
+		"/C/wamp/www/cis-sarl/application/modules/services/views/servicespage.php",
+		"/C/wamp/www/cis-sarl/application/modules/footer_copyright/views/footer_copyrightpage.php",
+		"/C/wamp/www/cis-sarl/application/modules/clients/controllers/clients.php",
+		"/C/wamp/www/cis-sarl/application/modules/clients/views/clientspage.php",
+		"/C/wamp/www/cis-sarl/application/modules/footer_copyright/controllers/footer_copyright.php",
+		"/C/wamp/www/cis-sarl/application/modules/header_top/controllers/header_top.php",
+		"/C/wamp/www/cis-sarl/application/modules/comingsoon/views/comingsoonpage.php",
+		"/C/wamp/www/cis-sarl/assets/css/themes/default.css",
+		"/G/Dossiers entreprise/projets/cis sarl/Docu cis/cis database.sql",
+		"/C/wamp/www/cis-sarl-workbench2/configuration.php",
+		"/C/wamp/www/cis-sarl-workbench/configuration.php",
+		"/C/wamp/www/cis-sarl-workbench/LICENSE.php",
+		"/C/wamp/www/cis-sarl-workbench/CREDITS.php",
+		"/C/wamp/www/cis-sarl/application/modules/comingsoon/controllers/comingsoon.php",
+		"/C/wamp/www/cis-sarl-workbench/INSTALL.php",
+		"/G/Dossiers entreprise/projets/cis sarl/site web/bases de données/kristdev_testcis.sql",
+		"/C/wamp/www/cis-sarl/assets/css/style.css",
+		"/C/wamp/www/cis-sarl/assets/css/headers/header1.css",
+		"/C/wamp/www/cis-sarl/assets/css/app.css",
+		"/C/wamp/www/cis-sarl/html/assets/css/style.css",
+		"/C/wamp/www/cis-sarl/application/config/autoload.php",
+		"/C/wamp/www/cis-sarl/html/index.html",
+		"/C/wamp/www/cis-sarl/application/config/routes.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/config/autoload.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/mod_newsletter/readme.txt",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/mod_newsletter/includes/functions.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/mod_newsletter/index.html",
+		"/C/Users/SEMPAI/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/welcome/views/welcomepage.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/mod_newsletter/models/mdl_controller.php",
+		"/C/wamp/www/kdmobil/assets/underconstruction/css/font-awesome.min.css",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/mod_countdown/controllers/mod_countdown.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/mod_countdown/controllers/index.html",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/countdown/controllers/countdown.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/countdown/views/countdown_page.php",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/countdown/readme.txt",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/countdown/includes/countdown.css",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/countdown/includes/jquery.jCounter-0.1.4.js",
+		"/C/wamp/www/kdmobil/application/underconstruction/modules/home/controllers/home.php",
+		"/C/wamp/www/kdmobil/assets/underconstruction/css/style.css",
+		"/C/Users/SEMPAI/Desktop/index.html",
+		"/C/wamp/www/kdmobil/application/underconstruction/config/routes.php",
+		"/G/tutos/DOCS/frameworks/css frameworks/bootstrap/bootstrap-3.1.1/dist/css/bootstrap.css",
+		"/C/Users/SEMPAI/Downloads/yourcontacts-master/application/views/includes/header.php",
+		"/C/Users/SEMPAI/Downloads/yourcontacts-master/application/views/includes/nli_navbar.php",
+		"/C/Users/SEMPAI/Downloads/yourcontacts-master/application/views/login.php",
+		"/C/Users/SEMPAI/Downloads/yourcontacts-master/application/views/includes/footer.php",
+		"/C/Users/SEMPAI/Downloads/yourcontacts-master/application/views/includes/navbar.php",
+		"/C/Users/SEMPAI/Downloads/yourcontacts-master/index.php",
+		"/C/Users/SEMPAI/Desktop/sa-graphic-html/assets/css/stylesheet.css",
+		"/C/Users/SEMPAI/Desktop/sa-graphic-html/assets/css/onepage-scroll.css",
+		"/C/Users/SEMPAI/Desktop/sa-graphic-html/assets/css/default.css",
+		"/G/tutos/DOCS/plugins jquery/images/thumbnail grid with expanding/Thumbnail Grid with Expanding Preview_fichiers/default.css",
+		"/C/Users/SEMPAI/Desktop/sa-graphic-html/assets/less/badges.less",
+		"/C/Users/SEMPAI/Desktop/sa-graphic-html/index.html",
+		"/C/Users/SEMPAI/Desktop/sa-graphic-html/assets/css/sticky-footer-navbar.css",
+		"/C/wamp/www/hmvc_gc/application/modules/grocery_crud/controllers/examples.php",
+		"/C/wamp/www/hmvc_gc/application/modules/grocery_crud/views/example.php",
+		"/C/wamp/www/sa-graphic/assets/css/font-awesome.min.css",
+		"/C/wamp/www/hmvc_gc/application/config/config.php",
+		"/C/wamp/www/sa-graphic/assets/css/default.css",
+		"/C/wamp/www/sa-graphic/application/modules/home/views/homepage.php",
+		"/C/wamp/www/sa-graphic/ftpsync.settings",
+		"/C/wamp/www/sa-graphic/assets/css/stylesheet.css",
+		"/C/Users/SEMPAI/Desktop/Naruto Shippuden Vostfr - Épisode 1 - Le retour à la maison.htm",
+		"/C/wamp/www/sa-graphic/application/config/autoload.php",
+		"/C/wamp/www/sa-graphic/assets/css/bootstrap-theme.min.css",
+		"/C/wamp/www/sa-graphic/application/config/config.php",
+		"/C/wamp/www/sa-graphic/application/modules/home/controllers/home.php",
+		"/C/wamp/www/sa-graphic/application/modules/welcome/controllers/welcome.php",
+		"/C/wamp/www/sa-graphic/application/modules/welcome/views/welcomepage.php",
+		"/C/wamp/www/sa-graphic/application/modules/welcome/controllers/index.html",
+		"/G/tutos/DOCS/frameworks/php frameworks/codeigniter/formated hmvc projects/without bootstrap/application/modules/welcome/views/welcomepage.php",
+		"/G/tutos/DOCS/frameworks/php frameworks/codeigniter/formated hmvc projects/without bootstrap/application/modules/welcome/controllers/copythis.php",
+		"/G/tutos/DOCS/frameworks/php frameworks/codeigniter/formated hmvc projects/without bootstrap/application/modules/welcome/controllers/welcome.php",
+		"/G/tutos/DOCS/frameworks/php frameworks/codeigniter/ci_hmvc_grocery_crud/application/modules/grocery_crud/controllers/examples.php",
+		"/G/tutos/DOCS/frameworks/php frameworks/codeigniter/ci_hmvc_grocery_crud/.htaccess",
+		"/C/wamp/www/netskools/assets/html/public/css/mystylesheet.css",
+		"/C/wamp/www/netskools/assets/html/public/index.html",
+		"/C/wamp/www/netskools/.htaccess",
+		"/C/wamp/www/netskools1.0/index.php",
+		"/C/Users/SEMPAI/Desktop/less-1.6.1.js",
+		"/C/Users/SEMPAI/Desktop/jquery-11.js",
+		"/G/tutos/DIVERS/landing-page/index.html",
+		"/C/wamp/www/kristdev/components/com_content/controllers/article.php",
+		"/C/wamp/www/kristdev/components/com_content/views/article/view.html.php",
+		"/C/wamp/www/kristdev/templates/rt_fracture/index.php",
+		"/C/wamp/www/kristdev/templates/rt_fracture/component.php",
+		"/C/wamp/www/kristdev/components/com_content/models/article.php",
+		"/C/wamp/www/kristdev/components/com_content/models/articles.php",
+		"/C/wamp/www/kristdev/components/com_gantry/controller.php",
+		"/C/wamp/www/kristdev/components/com_gantry/gantry.php",
+		"/C/Users/SEMPAI/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/netskools1.0/application/modules/profil/views/profilpage.php",
+		"/C/wamp/www/netskools1.0/application/modules/eleve/controllers/eleve.php",
+		"/C/Mes Sites/CAPECWEBSMS/CAPECWEBSMS_WEB/highcharts/examples/pie-basic/index.htm",
+		"/G/Dossiers entreprise/web/lekolatier/lekolatier-2014/index.html",
+		"/C/Mes Sites/CAPECWEBSMS/CAPECWEBSMS_WEB/FR/Connexions.php",
+		"/G/Dossiers entreprise/web/lekolatier/lekolatier-2014/css/jquery.vegas.min.css",
+		"/G/Dossiers entreprise/web/lekolatier/lekolatier-2014/test.html",
+		"/C/wamp/www/netskools1.0/application/config/database.php",
+		"/C/wamp/www/cocktail2motivation/index.html",
+		"/C/wamp/www/cocktail2motivation/css/my_stylesheet.css",
+		"/C/wamp/www/cocktail2motivation/css/my_font-awesome.css",
+		"/C/wamp/www/cocktail2motivation/css/my_bootstrap.css",
+		"/C/wamp/www/cocktail2motivation/css/superslides.css",
+		"/C/wamp/www/cocktail2motivation/simple.html",
+		"/C/wamp/www/leforumdeslions/assets/html/index.html",
+		"/C/wamp/www/leforumdeslions/assets/css/my_stylesheet.css",
+		"/G/Dossiers entreprise/web/lekolatier/lekolatier-2014/css/my_stylesheet.css",
+		"/C/wamp/www/leforumdeslions/assets/css/my_font-awesome.css",
+		"/G/tutos/frameworks/bootstrap/bootstrap-3.0.0/examples/navbar-fixed-top/index.html",
+		"/C/wamp/www/leforumdeslions/assets/css/my_bootstrap.css",
+		"/C/wamp/www/leforumdeslions/assets/html/index",
+		"/C/wamp/www/leforumdeslions/.htaccess",
+		"/C/wamp/www/forumdeslions/i.htaccess",
+		"/G/software/web+programmation/exeoutput/ExeOutput.for.PHP.v1.4.1.incl.serial-iOTA/iOTA.nfo",
+		"/C/wamp/www/forumdeslions/core/views/default.master.php",
+		"/C/wamp/www/forumdeslions/core/lib/functions.render.php",
+		"/C/wamp/www/forumdeslions/core/lib/functions.general.php",
+		"/C/wamp/www/forumdeslions/core/bootstrap.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jpg",
+			"5fb611",
+			"72c02c",
+			"back",
+			"<?php echo base_url();?>assets/",
+			"<?php echo base_url();?>",
+			"<?php echo base_url(); ?>",
+			"#E7D57F",
+			"#008d86",
+			"<?php echo base_url('assets'); ?>",
+			"\">\n",
+			"<section class=\"page1\">\n            <div class=\"page_container\">\n              <h1>One Page Scroll</h1>\n              <h2>Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin</h2>\n              <p class=\"credit\">Created by <a href=\"http://www.thepetedesign.com\">Pete R.</a>, Founder of <a href=\"http://www.bucketlistly.com\" target=\"_blank\">BucketListly</a></p>\n              <div class=\"btns\">\n                <a class=\"reload btn\" href=\"https://github.com/peachananr/onepage-scroll\">Download on Github</a>\n              </div>\n            </div>\n            <img src=\"phones.png\" alt=\"phones\">\n          </section>",
+			"<div class=\"er\"></div>",
+			">\n",
+			"<section class=\"page1\">\n            <div class=\"container\"></div>\n          </section>",
+			"<link href=\"assets/css/sticky-footer-navbar.css\" rel=\"stylesheet\">",
+			"\">\n",
+			"thumnails",
+			">img",
+			">js",
+			">css",
+			"assets/",
+			"assets",
+			"<link href=\"<?php echo base_url('assets/'); ?>css/bootstrap.css\" rel=\"stylesheet\">",
+			"\">\n",
+			"block",
+			"component",
+			"rt-ja",
+			"background",
+			"background-color",
+			"navbar",
+			"nav",
+			"background-",
+			"navbar-brand",
+			"=\"\">\n",
+			"div",
+			")\n",
+			"12",
+			"row",
+			"div",
+			"row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jpeg",
+			"cccccc",
+			"174e98",
+			"<?php echo base_url('assets');?>",
+			"",
+			"<?php echo base_url();?>",
+			"",
+			"#E7D57F",
+			"#6FC7DF",
+			"assets",
+			"thumbnails",
+			">/img",
+			">/js",
+			">/css",
+			"assets",
+			"assets/",
+			"body",
+			"titre"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
